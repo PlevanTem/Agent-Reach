@@ -5,6 +5,15 @@
     },
     "xiaohongshu": {
       "baseUrl": "http://localhost:18060/mcp"
+    },
+    "weibo": {
+      "command": "mcp-server-weibo"
+    },
+    "douyin": {
+      "baseUrl": "http://localhost:18070/mcp"
+    },
+    "linkedin": {
+      "baseUrl": "http://localhost:3000/mcp"
     }
   },
   "imports": []

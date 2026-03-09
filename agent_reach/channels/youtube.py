@@ -34,7 +34,7 @@ class YouTubeChannel(Channel):
             ytdlp_config = os.path.expanduser("~/.config/yt-dlp/config")
             has_js_config = False
             if os.path.exists(ytdlp_config):
-                with open(ytdlp_config, "r") as f:
+                with open(ytdlp_config, "r", encoding="utf-8", errors="replace") as f:
                     has_js_config = "--js-runtimes" in f.read()
             if not has_js_config:
                 return "warn", (
