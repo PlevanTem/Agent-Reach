@@ -339,7 +339,7 @@ Yes! Agent Reach is an installer + configuration tool — any AI coding agent th
 
 ## 联系
 
-有合作意向、功能建议，或者想聊聊 AI Agent 的——欢迎联系：
+有合作意向、功能建议，或者想聊聊 AI Agent 的——欢迎联系）（加上不说话的就别加了。。加上1天不说话我会删掉）：
 
 - 📧 **Email:** pnt01@foxmail.com
 - 🐦 **Twitter/X:** [@Neo_Reidlab](https://x.com/Neo_Reidlab)
@@ -357,4 +357,4 @@ Yes! Agent Reach is an installer + configuration tool — any AI coding agent th
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Panniantong/Agent-Reach&type=Date)](https://star-history.com/#Panniantong/Agent-Reach&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Panniantong/Agent-Reach&type=Date&v=20260309)](https://star-history.com/#Panniantong/Agent-Reach&Date)
